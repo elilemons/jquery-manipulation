@@ -6,8 +6,7 @@ $(() => {
     /*
         After adding your event listeners, use your developer tools to see how the HTML changes.
     */
-
-    
+   
     // Add a jQuery event listener for #buttonAppend  here
     // Use .append() to append elementToAdd to elementToAddTo
 
